@@ -1,6 +1,7 @@
 # Open_HBM3_PHY: 1.18 TB/s HBM3/HBM3E Physical Layer IP
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Academic Paper](https://img.shields.io/badge/Research_Paper-Read_PAPER.md-blueviolet.svg)](PAPER.md)
 [![Standard](https://img.shields.io/badge/Standard-JEDEC_JESD238-green.svg)]()
 [![Interface](https://img.shields.io/badge/Host_Interface-DFI_5.0-orange.svg)]()
 [![Verification](https://img.shields.io/badge/Formal_SVA-15%2F15_Proven-brightgreen.svg)]()
