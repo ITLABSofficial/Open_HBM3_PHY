@@ -1,0 +1,13 @@
+[options]
+mode bmc
+depth 12
+
+[engines]
+smtbmc z3
+
+[script]
+read -formal formal_hbm3_phy_deskew.sv
+prep -top formal_hbm3_phy_deskew
+
+[files]
+formal/formal_hbm3_phy_deskew.sv
